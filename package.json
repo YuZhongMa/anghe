@@ -1,0 +1,24 @@
+{
+  "name": "anghe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuZhongMa/anghe.git"
+  },
+  "author": "mlj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuZhongMa/anghe/issues"
+  },
+  "homepage": "https://github.com/YuZhongMa/anghe#readme",
+  "devDependencies": {
+    "vue": "^2.6.9",
+    "vue-router": "^3.0.2",
+    "webpack": "^4.29.6"
+  }
+}
